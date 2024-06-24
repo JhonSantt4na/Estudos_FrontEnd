@@ -60,6 +60,6 @@ span {
     align-items: center;
 }
 #titulo{
-    position: fixed;
+    position: absolute;
     top: 115px;
 }
