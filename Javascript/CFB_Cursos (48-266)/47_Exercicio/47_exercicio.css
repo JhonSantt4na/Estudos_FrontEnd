@@ -22,6 +22,10 @@ input{
 }
 
 #th {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border: 1px solid black;
     height: 20px;
     width: 300px; 
