@@ -14,7 +14,7 @@ const lista = [];         // Array Vazio é True
 const objt = {};          // objt Vazio é True
 
 console.log(!!lista, !!objt)
-// para checsar se a lista está vazia
+// para checar se a lista está vazia
 if (lista.length > 0) {     // se a quantidade de itens na lista 
     console.log(lista)      // é maior que 0
 }
