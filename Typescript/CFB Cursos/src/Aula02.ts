@@ -77,3 +77,7 @@ console.log(c1.curso);
 
 // vamos compilar tudo de uma vez da pasta src
 // comando : tsc
+
+// no tsc compilador existe o watch que ele fica assitindo e sempre que adicionar um arquivo na src ele ja compila
+// comando: tsc -w ou tsc watch
+// com isso toda alteracao ao salvar ele ja compila 
