@@ -3,7 +3,6 @@ let numeros:Array<number> = [20,30,40];
 // com union
 // let numeros:Array<number|string> = [20,30,40];
 
-
 // Adicionado
 numeros.push(50); // Adiciona no final
 numeros.unshift(10); // Adiciona no inicio
