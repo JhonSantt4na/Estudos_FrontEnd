@@ -1,7 +1,4 @@
-Claro! Aqui está um exemplo de README para o seu repositório de estudos de desenvolvimento front-end:
-
 ---
-
 # Repositório de Estudos de Front-end
 
 Este repositório contém projetos e exemplos desenvolvidos durante meus estudos de desenvolvimento front-end. O foco principal é na construção de interfaces web interativas e responsivas utilizando HTML, CSS e JavaScript.
